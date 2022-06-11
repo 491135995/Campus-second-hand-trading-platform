@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_about_app.xml" value="0.25" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_add_commodity.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_commodity_type.xml" value="0.2" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_modify_info.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_modify_pwd.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_my_collection.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_my_commodity.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_my_info.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_personal_center.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/activity_review_commodity.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/layout_all_commodity.xml" value="0.12132725430597771" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/layout_commodity_review.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/layout_my_collection.xml" value="0.1" />
+        <entry key="..\:/School Shopping/app/src/main/res/layout/layout_my_commodity.xml" value="0.12132725430597771" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
